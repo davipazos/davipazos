@@ -11,3 +11,7 @@
 - :student: I’m currently learning about `Animation` and `Video Games`.
 - :nerd_face: Always `trying to do my best`.
 <br>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-davipazos3d@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:davipazos3d@gmail.com)](davipazos3d@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-davipazos3d_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/davipazos3d/)](https://www.instagram.com/davipazos3d/)
