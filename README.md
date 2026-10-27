@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:davipazos3d@gmail.com"><img src="https://img.shields.io/badge/Email-davipazos3d%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.linkedin.com/in/davidpazosgarcia"><img src="https://img.shields.io/badge/LinkedIn-David%20Pazos%20Garc%C3%ADa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/davidpazosgarcia/"><img src="https://img.shields.io/badge/LinkedIn-David%20Pazos%20Garc%C3%ADa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
