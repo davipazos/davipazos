@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://youtu.be/SwVktW4Fv5A">
-    <img src="https://img.youtube.com/vi/SwVktW4Fv5A/maxresdefault.jpg" alt="Watch my Rigging Demo Reel" width="720">
+    <img src="./GIF_Git.gif" alt="Watch my Rigging Demo Reel" width="720">
   </a>
 </p>
 
